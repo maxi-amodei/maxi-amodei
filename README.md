@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **RoR**
 
-- 📫 How to reach me **maxi_amodei@hotmail.com** / mamodei@udesa.edu.ar
+- 📫 How to reach me **maxi_amodei@hotmail.com** / **mamodei@udesa.edu.ar**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
