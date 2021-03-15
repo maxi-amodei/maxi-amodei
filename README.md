@@ -5,11 +5,11 @@
 
 - 🌱 I’m currently learning **RoR, React, JS
 
-- 👯 I’m looking to collaborate on **fullstack projects**
+- 👯 I’m looking to collaborate on **fullstack projects** in a team
 
 - 💬 Ask me about **RoR**
 
-- 📫 How to reach me **maxi_amodei@hotmail.com**
+- 📫 How to reach me **maxi_amodei@hotmail.com** / mamodei@udesa.edu.ar
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
