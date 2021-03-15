@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Maxi Amodei</h1>
-<h3 align="center">A passionate fullstack developer from Buenos Aires</h3>
+<h3 align="center">Fullstack developer from Buenos Aires</h3>
 
 - 🔭 I’m currently working on **my personal website and an e-commerce site**
 
