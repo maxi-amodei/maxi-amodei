@@ -13,7 +13,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/maximiliano amodei" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="maximiliano amodei" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/maximiliano-amodei/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="maximiliano amodei" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/14536332" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="14536332" height="30" width="40" /></a>
 </p>
 
