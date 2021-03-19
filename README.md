@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **my personal website and an e-commerce site**
 
-- 🌱 I’m currently learning **RoR, React, JS & Computer Science
+- 🌱 I’m currently learning **RoR, React, JS & Computer Science Basics
 
 - 👯 I’m looking to collaborate on **fullstack projects** in a team
 
