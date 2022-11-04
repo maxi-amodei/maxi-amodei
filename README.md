@@ -1,13 +1,7 @@
 <h1 align="center">Hi 👋, I'm Maxi Amodei</h1>
 <h3 align="center">Fullstack developer from Buenos Aires</h3>
 
-- 🔭 I’m currently working on **my personal website and an e-commerce site**
-
-- 🌱 I’m currently learning **RoR, React, JS & Computer Science Basics
-
-- 👯 I’m looking to collaborate on **fullstack projects** in a team
-
-- 💬 Ask me about **RoR**
+- 💬 Ask me about **RoR** AND JS
 
 - 📫 How to reach me **maxi_amodei@hotmail.com** / **mamodei@udesa.edu.ar**
 
