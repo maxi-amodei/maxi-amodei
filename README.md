@@ -2,8 +2,9 @@
 <h3 align="center">Fullstack developer from Buenos Aires</h3>
 
 - 💬 Ask me about **RoR** AND JS
+- My expertise is in Ruby on Rails on the back-end and Stimulus, Hotwire, and Bootstrap on the front-end. I love to build end-to-end features as a full-stack engineer.
 
-- 📫 How to reach me **maxi_amodei@hotmail.com** / **mamodei@udesa.edu.ar**
+- 📫 How to reach me **maxi_amodei@hotmail.com** / **maximiliano.amodei@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
